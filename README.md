@@ -1,3 +1,7 @@
 ## Olá! Eu sou o Carlos Henrique 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlostitoaz&show_icons=true&theme=highcontrast)
+<div>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlostitoaz&show_icons=true&theme=highcontrast"/>
+  </a>
+</div>
