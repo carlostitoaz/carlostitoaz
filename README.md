@@ -2,8 +2,8 @@
 
 ## Olá! Eu sou o Carlos Henrique 👋
 <style>
-  html {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); /*pode ser transparent também*/
+  a:hover {
+    color: #000000;
 }
   </style>
 <div>
