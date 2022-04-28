@@ -1,11 +1,7 @@
 <!-- link para saber mais do githubstarts https://github.com/anuraghazra/github-readme-stats video explicativo: https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini-->
 
 ## Olá! Eu sou o Carlos Henrique 👋
-<style>
-  a:hover {
-    color: #000000;
-}
-  </style>
+
 <div>
   <a href="#">
     <br><img height="180" src="https://github-readme-stats.vercel.app/api?username=carlostitoaz&show_icons=true&theme=highcontrast" />
@@ -30,7 +26,7 @@
 ##
 
 <div>
-  <a style=":hover{color=#000000;}" href="https://www.linkedin.com/in/carlostitoaz/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlostitoaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="#">
