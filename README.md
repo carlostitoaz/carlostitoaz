@@ -26,7 +26,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/carlostitoaz/" target="_blank">
+  <a style=":hover{color=#000000;}" href="https://www.linkedin.com/in/carlostitoaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="#">
