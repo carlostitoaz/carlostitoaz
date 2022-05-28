@@ -1,6 +1,6 @@
 <!-- link para saber mais do githubstarts https://github.com/anuraghazra/github-readme-stats video explicativo: https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini-->
 
-## Olá! Eu sou o Carlos Henrique 👋
+## Olá! Eu sou o Carlos Henrique Tito Azeredo👋
 
 <div>
   <a href="#">
