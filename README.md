@@ -37,3 +37,11 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
 </div>
+
+
+##
+
+
+<div>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7c26ff5-b770-4b9c-9afd-5c52d505dbf8/dczvblc-083fca77-1bc1-434a-b13f-00c319eabf45.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3YzI2ZmY1LWI3NzAtNGI5Yy05YWZkLTVjNTJkNTA1ZGJmOFwvZGN6dmJsYy0wODNmY2E3Ny0xYmMxLTQzNGEtYjEzZi0wMGMzMTllYWJmNDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wsOe4c3chaVU0nRXTTIsovdjNBhoiCvOPka9JXeRfNs" >
+</div>
