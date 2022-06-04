@@ -49,6 +49,6 @@
 
 <style>
 .mario{
-  brackground-image: url("https://www.tynker.com/projects/screenshot/5a9752b15ae029a4748b4569/super-mario-bros.png");
+  background-image: url("https://www.tynker.com/projects/screenshot/5a9752b15ae029a4748b4569/super-mario-bros.png");
   }
 </style>
